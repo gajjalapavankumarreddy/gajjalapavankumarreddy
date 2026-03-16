@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  currently working on data science projects<br>I'm looking to collaborate on data science projects<br>I'm looking a job as a entry level in a mnc's companies in data science domain<br>I'm currently learning Ai and Data Science full stack with Gen ai & Agentic ai<br>
+I'm  currently working on data science and data analyst projects<br>I'm looking to collaborate on data science projects<br>I'm looking a job as a entry level in a mnc's companies in data science domain<br>I'm currently learning Ai and Data Science full stack with Gen ai & Agentic ai<br>
 
 
 ## 🌐 Socials:
